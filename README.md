@@ -1,6 +1,6 @@
 # pharma-challenge
 
-All code and csv are in the master branch.
+I uploaded files via the drag method to make sure there were no issues. This is a resubmission so I didn't want to take any chances. 
 
 I recieved help in a couple places.
 
