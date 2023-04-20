@@ -1,6 +1,6 @@
 # pharma-challenge
 
-I uploaded files via the drag method to make sure there were no issues. This is a resubmission so I didn't want to take any chances. 
+I uploaded files via the drag method to make sure there were no issues. This is a resubmission so I didn't want to take any chances. Despite the fact that the notebook is called starter, it is all my work and not in fact the starter code.
 
 I recieved help in a couple places.
 
